@@ -2,7 +2,7 @@
 
 主にアニソンのコード進行のアノテーションデータセットです。
 
-現在224曲
+現在223曲
 
 [auto-chord-tracker](https://github.com/anime-song/auto-chord-tracker)の学習データに使用しています。
 
