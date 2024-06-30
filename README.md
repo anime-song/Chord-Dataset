@@ -1,15 +1,14 @@
 # Chord-Dataset
 
 主にアニソンのコード進行のアノテーションデータセットです。
+index.json に音源の youtube リンクとファイル名を記載しています。
 
-現在223曲
+現在 138 曲
 
-[auto-chord-tracker](https://github.com/anime-song/auto-chord-tracker)の学習データに使用しています。
-
-コードの形式は統一されていません。
+コードの表記方法は統一されていません。
 ラベルは以下の形式で記述されています。
 
-    [開始時間]:[終了時間]:[和音]
+    [開始時間]<tabspace>[終了時間]<tabspace>[和音]
                 .
                 .
                 .
